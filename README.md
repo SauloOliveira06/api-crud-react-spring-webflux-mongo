@@ -1,5 +1,5 @@
 # api-crud-react-spring-webflux-mongo
-This is a simple crud api with ReactJS, MongoDB, Spring Webflux, Hooks, ReactBootstrap, Rest
+Projeto CURD API Rest com ReactJS, MongoDB, Spring Webflux, Hooks, ReactBootstrap
 
 
 # Rodar o projeto
