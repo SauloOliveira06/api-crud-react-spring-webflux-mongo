@@ -5,10 +5,10 @@ This is a simple crud api with ReactJS, MongoDB, Spring Webflux, Hooks, ReactBoo
 # Rodar o projeto
 git clone https://github.com/SauloOliveira06/api-crud-react-spring-webflux-mongo.git
 
-#Yarn install no projeto/dependencias
+##Yarn install no projeto/dependencias
 
 yarn install
 
-#Startar o projeto
+##Startar o projeto
 
 yarn start
