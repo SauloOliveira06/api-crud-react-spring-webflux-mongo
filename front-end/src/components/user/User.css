@@ -1,0 +1,11 @@
+.add-usuario{
+    display: flex;
+    align-items: center;
+    width: 600px;
+    padding-left: 120px;
+    text-align: center;
+}
+
+.error{
+    color: red;
+}
